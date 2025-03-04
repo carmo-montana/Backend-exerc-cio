@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "init": "^0.1.2"
+  },
+  "devDependencies": {
+    "node-ts": "^8.0.0",
+    "typescript": "^5.8.2"
+  }
+}
